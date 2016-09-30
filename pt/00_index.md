@@ -1,6 +1,6 @@
 [Prefácio](01_prefacio.md "Prefácio")
 
--   [Primeiros passos com GLPI](/02_Primeiros_passos_com_GLPI/01_Primeiros_passos_com_GLPI.md)
+-   [Primeiros passos com GLPI](02_Primeiros_passos_com_GLPI/01_Primeiros_passos_com_GLPI.md)
     -   [Implantação do GLPI](/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_ImplantacaoGLPI.md)
         -   [Pré-requisitos](/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_Prerequisitos/01_Prerequisitos_necessarios.md)
             -   [Pré-requisitos do servidor web](/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_Prerequisitos/02_Prerequisitos_servidor.md)
