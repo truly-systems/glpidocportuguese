@@ -17,7 +17,7 @@ Um usuário não autenticado pode acessar a certas funcionalidades se a GLPI est
     Para se desconectar, clique no link Sair no canto superior direito da tela. Assim que a sessão for concluída, o usuário será redirecionado para a página de autenticação.
 
 
--   **[Descobrindo a interface da GLPI](index.php?pt/02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/02_Descobrindo_a_interface_da_GLPI.md)**
+-   **[Descobrindo a interface da GLPI](02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/02_Descobrindo_a_interface_da_GLPI.md)**
 
 
 -   **Mudar o idioma da aplicação**
@@ -25,23 +25,23 @@ Um usuário não autenticado pode acessar a certas funcionalidades se a GLPI est
     O link exibe o idioma recentemente em uso na GLPI.
 
 
--   **[	Administrando sua senha](index.php?pt/02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/03_Administrando_sua_senha.md)**
+-   **[	Administrando sua senha](02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/03_Administrando_sua_senha.md)**
  
 
--   **[Administrando suas preferências](index.php?pt/02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/04_Administrando_suas_preferencias)**
+-   **[Administrando suas preferências](02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/04_Administrando_suas_preferencias)**
      As preferências do usuários são modificadas a partir do menu ***Preferências***
 
 
--   **[Navegação pelos módulos do GLPI](index.php?pt/02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/05_Navigacao_pelos_modulos_da_GLPI.md)**
+-   **[Navegação pelos módulos do GLPI](02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/05_Navigacao_pelos_modulos_da_GLPI.md)**
      A navegação pelos módulos é feita pela barra superior da interface.
 
 
--   **[A interface padrão e a interface simplificada](index.php?pt/02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/06_Interface_padrao_e_interface_simplificada.md)**
+-   **[A interface padrão e a interface simplificada](02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/06_Interface_padrao_e_interface_simplificada.md)**
      Dependendo das autorizações, o usuário utiliza a **interface padrão** ou a **interface simplificada**.
 
--   **[Exibir e administrar os registros](index.php?pt/02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/07_Exibir_os_registros.md)**
+-   **[Exibir e administrar os registros](02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/07_Exibir_os_registros.md)**
 
--   **[Pesquisa](index.php?pt/02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/08_Pesquisa.md)**
+-   **[Pesquisa](02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/08_Pesquisa.md)**
      Pesquisar as informações de GLPI
 
 **Tópico principal :** [Primeiros passos com GLPI](index.php?pt/02_Primeiros_passos_com_GLPI/01_Primeiros_passos_com_GLPI.md)

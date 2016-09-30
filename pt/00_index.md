@@ -1,42 +1,42 @@
 [Prefácio](01_prefacio.md "Prefácio")
 
--   [Primeiros passos com GLPI](/02_Primeiros_passos_com_GLPI/01_Primeiros_passos_com_GLPI.md)
-    -   [Implantação do GLPI](/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_ImplantacaoGLPI.md)
-        -   [Pré-requisitos](/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_Prerequisitos/01_Prerequisitos_necessarios.md)
-            -   [Pré-requisitos do servidor web](/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_Prerequisitos/02_Prerequisitos_servidor.md)
-            -   [Pré-requisitos do servidor da base de dados](/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_Prerequisitos/03_Prerequisitos_base_de_dados.md)
+-   [Primeiros passos com GLPI](02_Primeiros_passos_com_GLPI/01_Primeiros_passos_com_GLPI.md)
+    -   [Implantação do GLPI](02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_ImplantacaoGLPI.md)
+        -   [Pré-requisitos](02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_Prerequisitos/01_Prerequisitos_necessarios.md)
+            -   [Pré-requisitos do servidor web](02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_Prerequisitos/02_Prerequisitos_servidor.md)
+            -   [Pré-requisitos do servidor da base de dados](02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_Prerequisitos/03_Prerequisitos_base_de_dados.md)
 
-        -   [Installer les pages de l'application GLPI](/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/03_Instalacao_do_aplicativo.md)
-        -    [Utilização do assistante de instalação](/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/04_Assistente_de_instalacao.md)
+        -   [Installer les pages de l'application GLPI](02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/03_Instalacao_do_aplicativo.md)
+        -    [Utilização do assistante de instalação](02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/04_Assistente_de_instalacao.md)
 
-    -   [Utilização GLPI](index.php?pt/02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/01_Utilizacao_GLPI.md)
+    -   [Utilização GLPI](02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/01_Utilizacao_GLPI.md)
         -   Escolher um navegador web
         -   Conectar-se ao GLPI
         -   Finalizar a sessão GLPI
-        -   [Explorar a interface do GLPI](index.php?pt/02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/02_Explorar_a_interface_do_GLPI.md)
+        -   [Explorar a interface do GLPI](02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/02_Explorar_a_interface_do_GLPI.md)
         -   Modificar o idioma do aplicativo
-        -   [Gerenciar sua senha](index.php?pt/02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/03_Gerenciar_sua_senha.md)
-        -   [Gerenciar as preferências](index.php?pt/02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/04_Gerenciar_as_preferencias.md)
+        -   [Gerenciar sua senha](02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/03_Gerenciar_sua_senha.md)
+        -   [Gerenciar as preferências](02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/04_Gerenciar_as_preferencias.md)
             -   [Personalizar a interface](config_common_personalize.html)
 
-        -   [Navegação nos módolus do GLPI](index.php?pt/02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/05_Navegacao_nos_modulos_do_GLPI.md)
-        -   [Interface padrão e interface simplificada](index.php?pt/02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/06_Interface_padrao_e_interface_simplificada.md)
-        -   [Visualização dos registros](index.php?pt/02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/07_Visualizacao_dos_registros.md)
-        -   [Pesquisa](index.php?pt/02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/08_Pesquisa.md)
+        -   [Navegação nos módolus do GLPI](02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/05_Navegacao_nos_modulos_do_GLPI.md)
+        -   [Interface padrão e interface simplificada](02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/06_Interface_padrao_e_interface_simplificada.md)
+        -   [Visualização dos registros](02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/07_Visualizacao_dos_registros.md)
+        -   [Pesquisa](02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/08_Pesquisa.md)
 
--   [Módulo Parque](index.php?pt/03_Modulo_Parque/01_Modulo_Parqu.md)
+-   [Módulo Parque](03_Modulo_Parque/01_Modulo_Parque.md)
     Gestão do parque, as leis, pesquisa geral
-    -   [Gerenciamento de modelos](index.php?pt/Diferentes_acoes/Gerenciamento_de_modelos.md)
-    -   [Gerenciamento les ordinateurs](index.php?pt/03_Module_Parque/02_Ordinateurs.md)
-    -   [Gerenciamento dos monitores](index.php?pt/03_Modulo_Parque/03_Monitores.md)
-    -   [Gerenciamento dos softwares](index.php?pt/03_Modulo_Parque/04_Softwares/01_Softwares.md)
-        - [Gerenciamento das licenças](index.php?pt/03_Modulo_Parque/04_Softwares/02_Guia_Licenças.md)
-    -   [Gerenciamento dos dispositivos](index.php pt/03_Modulo_Parque/06_Dispositivos.md)
-    -   [Gerencimento das impressoras](index.php?pt/03_Modulo_Parque/07_Imprissoras.md)
-    -   [Gerenciamento dos cartuchos](index.php?pt/03_Modulo_Parque/08_Cartuchos.md)
-    -   [Gerenciamento dos consumíveis](index.php?pt/03_Modulo_Parque/09_Consumíveis.md)
+    -   [Gerenciamento de modelos](Diferentes_acoes/Gerenciamento_de_modelos.md)
+    -   [Gerenciamento les ordinateurs](03_Module_Parque/02_Computadores.md)
+    -   [Gerenciamento dos monitores](03_Modulo_Parque/03_Monitores.md)
+    -   [Gerenciamento dos softwares](03_Modulo_Parque/04_Softwares/01_Softwares.md)
+        - [Gerenciamento das licenças](03_Modulo_Parque/04_Softwares/02_Guia_Licenças.md)
+    -   [Gerenciamento dos dispositivos](03_Modulo_Parque/06_Dispositivos.md)
+    -   [Gerencimento das impressoras](03_Modulo_Parque/07_Imprissoras.md)
+    -   [Gerenciamento dos cartuchos](03_Modulo_Parque/08_Cartuchos.md)
+    -   [Gerenciamento dos consumíveis](03_Modulo_Parque/09_Consumíveis.md)
     -   [Gerenciamento dos telefones](index.php?pt/03_Modulo_Parque/10_Telefones.md)
-    -   [Geral](index.php?pt/03_Modulo_Parque/11_Geral.md)
+    -   [Geral](03_Modulo_Parque/11_Geral.md)
         Pesquisa geral sobre itens do estoque
 
 
@@ -46,8 +46,8 @@
         -   [Nome da rede](inventorio_ip_nome_rede.html)
 
 -   A assistência aos usuários
-    -   [Iniciando o helpdesk](index.php?pt/04_Modulo_Assistencia/01_Modulo_Assistencia.md)
-    -   [Définir les acteurs e seus papéis](index.php?pt/04_Modulo_Assistencia/02_Définir_les_acteurs.md)
+    -   [Iniciando o helpdesk](04_Modulo_Assistencia/01_Modulo_Assistencia.md)
+    -   [Definir o ator e seus papéis](index.php?pt/04_Modulo_Assistencia/02_Définir_les_acteurs.md)
     -   [Définir la matrice de calcul de la priorité](index.php?pt/04_Module_Assistencia/03_Définir_la_matrice_de_calcul_de_la_priorité.md)
     -   [Configuração avançada](index.php?pt/04_Modulo_Assistencia/04_Configuracao_avancada.md)
     -   [Les matrices de cycle de vie](index.php?pt/04_Module_Assistencia/05_Les_matrices_de_cycle_de_vie.md)
