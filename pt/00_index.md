@@ -1,12 +1,13 @@
--   [Préfácio](index.php?fr/prefacio.md)
--   [Primeiros passos com GLPI](index.php?pt/02_Primeiros_passos_com_GLPI/01_Primeiros_passos_com_GLPI.md)
-    -   [Implantação do GLPI](index.php?pt/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_ImplantacaoGLPI.md)
-        -   [Pré-requisitos](index.php?pt/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_Prerequisitos/01_Prerequisitos_necessarios.md)
-            -   [Pré-requisitos do servidor web](index.php?pt/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_Prerequisitos/02_Prerequisitos_servidor.md)
-            -   [Pré-requisitos do servidor da base de dados](index.php?pt/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_Prerequisitos/03_Prerequisitos_base_de_dados.md)
+[Prefácio](01_prefacio.md "Prefácio")
 
-        -   [Installer les pages de l'application GLPI](index.php?pt/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/03_Instalacao_do_aplicativo.md)
-        -    [Utilização do assistante de instalação](index.php?pt/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/04_Assistente_de_instalacao.md)
+-   [Primeiros passos com GLPI](/02_Primeiros_passos_com_GLPI/01_Primeiros_passos_com_GLPI.md)
+    -   [Implantação do GLPI](/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_ImplantacaoGLPI.md)
+        -   [Pré-requisitos](/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_Prerequisitos/01_Prerequisitos_necessarios.md)
+            -   [Pré-requisitos do servidor web](/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_Prerequisitos/02_Prerequisitos_servidor.md)
+            -   [Pré-requisitos do servidor da base de dados](/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/02_Prerequisitos/03_Prerequisitos_base_de_dados.md)
+
+        -   [Installer les pages de l'application GLPI](/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/03_Instalacao_do_aplicativo.md)
+        -    [Utilização do assistante de instalação](/02_Primeiros_passos_com_GLPI/02_Implantacao_GLPI/04_Assistente_de_instalacao.md)
 
     -   [Utilização GLPI](index.php?pt/02_Primeiros_passos_com_GLPI/03_Utilizacao_GLPI/01_Utilizacao_GLPI.md)
         -   Escolher um navegador web
